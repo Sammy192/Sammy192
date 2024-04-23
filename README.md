@@ -6,7 +6,7 @@ Este período permitiu-me adquirir soft skills e Hard Skills relevantes para a t
 Com uma transição natural para o desenvolvimento de sistemas, voltei-me para a área de suporte ao cliente, que foi a porta de entrada para me aprofundar e aprender sobre a programação que me levou a me tornar um desenvolvedor de sistemas.
 
 Durante esta jornada, explorei diversas áreas de negócio e adquiri conhecimentos em linguagens como
-Java, JavaScript, SQL, React, C#, inicialização Java Spring.
+Java, JavaScript, SQL, React, C#, Java Springboot.
 
 Ao longo dos anos desenvolvi uma abordagem completa e atualmente busco constante crescimento e especialização para continuar sendo um excelente desenvolvedor de software com o objetivo de ser um desenvolvedor full cycle.
 
